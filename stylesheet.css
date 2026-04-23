@@ -9,9 +9,9 @@
     --color-border-light: #eee;
     --color-card-bg: #fff;
     --color-tag-bg: #f0f0ec;
-    --font-display: 'Source Serif 4', Georgia, serif;
-    --font-sans: 'Fira Sans Condensed', 'Helvetica Neue', sans-serif;
-    --font-body: 'Fira Sans', 'Helvetica Neue', sans-serif;
+    --font-display: 'PT Sans', sans-serif;
+    --font-sans: 'PT Sans', sans-serif;
+    --font-body: 'PT Sans', sans-serif;
     --sidebar-width: 320px;
 }
 
