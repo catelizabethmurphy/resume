@@ -1,18 +1,20 @@
 [{
-        "headline": "​March Madness is over. Abuse from bettors likely isn’t",
+        "headline": "March Madness is over. Abuse from bettors likely isn't",
         "publication": "Povich Center for Sports Journalism and Howard Center for Investigative Journalism",
         "date": "April 6, 2026",
         "url": "https://cnsmaryland.org/2026/04/06/march-madness-is-almost-over-abuse-from-bettors-likely-isnt/",
         "image": "https://cnsmaryland.org/wp-content/uploads/2026/04/braylon_mullins_200_shot_dude.png",
-        "alt": "Screenshot of an Instagram comment from a sports bettor"
+        "alt": "Screenshot of an Instagram comment from a sports bettor",
+        "deck": "Demands for Venmo transfers because of a turnover. Harassing messages over lost bets. Cheating allegations against star players and top teams. Regardless of which team wins Monday night’s men’s college basketball championship game between No. 1 seed Michigan and No. 2 seed UConn, student-athletes from both teams will almost certainly face abuse like this from bettors who lose money on the game."
     },
     {
-        "headline": "​​BNSF exec: Railroad ‘intentionally’ not training tech to find some track defects",
+        "headline": "BNSF exec: Railroad 'intentionally' not training tech to find some track defects",
         "publication": "Howard Center for Investigative Journalism",
         "date": "Feb. 10, 2026",
         "url": "https://cnsmaryland.org/2026/02/10/bnsf-exec-railroad-intentionally-not-training-tech-find-some-defects/",
         "image": "https://cnsmaryland.org/wp-content/uploads/2026/02/54623263412_29ef134d04_c.jpg",
-        "alt": "A BNSF train"
+        "alt": "A BNSF train",
+        "deck": "BNSF Railway’s general director of rail said the company is not training its track inspection technology to find some defects regulators maintain can lead to derailments, because it would slow the company’s freight operations."
     },
     {
         "headline": "Railroads and their regulators thwart safety fixes, costing lives",
@@ -20,7 +22,8 @@
         "date": "Jan. 12, 2026",
         "url": "https://apnews.com/article/railroad-investigation-crash-analysis-safety-fixes-dbe773c97ba11e6d36fdc1c976423b51",
         "image": "https://dims.apnews.com/dims4/default/2472c99/2147483647/strip/true/crop/4885x3256+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6d%2F81%2F6b8036812ae6ec63424bd8a8f41c%2F50aeff1ab08b42c1bd11e7eaca034574",
-        "alt": "2021 Joplin, Montana, derailment"
+        "alt": "2021 Joplin, Montana, derailment",
+        "deck": "Human errors and track defects caused more than 3,000 rail accidents over the last decade, killing 23 people and injuring nearly 1,200. Yet federal railroad regulators failed to implement most of the safety recommendations that emerged from accident investigations."
     },
     {
         "headline": "The Wisconsin village with more derailments than gas stations",
@@ -28,7 +31,8 @@
         "date": "Dec. 16, 2025",
         "url": "https://cnsmaryland.org/2025/12/16/the-wisconsin-village-with-more-derailments-than-gas-stations/",
         "image": "https://cnsmaryland.org/wp-content/uploads/2025/12/Screenshot-2025-12-16-at-8.05.33-PM-1.png",
-        "alt": "Reeseville, Wisconsin"
+        "alt": "Reeseville, Wisconsin",
+        "deck": "Elizabeth Statz watched fire engine after fire engine speed past the Wisconsin farmhouse she and her husband Roger called home for nearly five decades. But it wasn’t until she saw the hazmat truck racing toward the center of Reeseville, a village of fewer than 800 people, that she called her brother, a first responder in a nearby township."
     },
     {
         "headline": "Here's who Donald Trump has granted clemency to this year",
@@ -36,7 +40,8 @@
         "date": "Nov. 18, 2025",
         "url": "https://cnsmaryland.org/interactives/fall2025/pardons/index.html",
         "image": "https://catelizabethmurphy.github.io/resume/images/pardons_screenshot.png",
-        "alt": "Trump pardons timeline"
+        "alt": "Trump pardons timeline",
+        "deck": "During his second term, the president has granted clemency to a number of white-collar criminals, including a handful of former representatives, governors, state senators and other public officials convicted on corruption charges. Here's an interactive timeline showing who has benefitted."
     },
     {
         "headline": "Congressional Democrats and Republicans have never been further apart on fiscal policy",
@@ -44,15 +49,17 @@
         "date": "Oct. 21, 2025",
         "url": "https://cnsmaryland.org/2025/10/21/congress-disagreeing-on-funding-isnt-new-but-statistically-its-members-disagree-more-than-ever/",
         "image": "https://catelizabethmurphy.github.io/resume/images/graphic_screenshot.png",
-        "alt": "Congressional polarization chart"
+        "alt": "Congressional polarization chart",
+        "deck": "Political infighting has shut down the government before. But this time, congressional Democrats and Republicans are further apart ideologically than at any time in the last 80 years."
     },
     {
-        "headline": "Congress stalls on new regulations for trains carrying flammable liquids 2 years after Ohio derailment",
+        "headline": "Apply safety rules to more trains carrying flammable cargo, lawmakers urge",
         "publication": "Associated Press",
         "date": "Aug. 22, 2025",
         "url": "https://apnews.com/article/flammable-trains-rules-congress-hhft-edfc6204a02698722c0d4b4788a34cf0",
         "image": "https://dims.apnews.com/dims4/default/e03823e/2147483647/strip/true/crop/2665x1777+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff0%2F13%2Faf8944e009aab29a97cb7cce71dc%2F65be639264aa4eb18e6644ead84f47b3",
-        "alt": "Train derailment scene"
+        "alt": "Train derailment scene",
+        "deck": "When a BNSF freight train carrying six cars of liquefied petroleum gas derailed near Manuelito, New Mexico, in 2024, the resulting fire shut down more than 100 miles of an interstate highway. The train carried enough flammable material to send a column of fire and black smoke high into the thin, dry air — but not enough to qualify as a “high-hazard flammable train” under federal rules."
     },
     {
         "headline": "2 years after the East Palestine train derailment, residents are still finding chemicals in their homes",
@@ -60,7 +67,8 @@
         "date": "Feb. 3, 2025",
         "url": "https://www.npr.org/2025/02/03/g-s1-45879/east-palestine-chemicals-two-years-later",
         "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5568x3712+0+0/resize/1600/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc2%2F2e%2Ff51ee8214a66adea3e42b14e3f1d%2Ftank-cars.jpg",
-        "alt": "Tank cars"
+        "alt": "Tank cars",
+        "deck": "Two years after a Norfolk Southern train derailment spewed a toxic cloud that drove thousands from their homes, freight trains with the same chemicals central to that disaster roll through town — with few steps taken by lawmakers to prevent another disaster."
     },
     {
         "headline": "Health, environmental concerns divide East Palestine two years after train derailment, toxic fire",
@@ -68,6 +76,7 @@
         "date": "Feb. 3, 2025",
         "url": "https://cnsmaryland.org/2025/02/03/health-environmental-concerns-divide-east-palestine-two-years-after-train-derailment-toxic-fire/",
         "image": "https://cnsmaryland.org/wp-content/uploads/2025/02/derailment_site.jpg",
-        "alt": "Norfolk Southern derailment site"
+        "alt": "Norfolk Southern derailment site",
+        "deck": "Few physical signs remain of the devastating train derailment that blanketed East Palestine in toxic fumes two years ago. But under the surface, the wounds remain fresh."
     }
 ]

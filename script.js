@@ -4,15 +4,16 @@ function renderClips(clips) {
     if (!container) return;
 
     container.innerHTML = clips.map(clip => `
-        <article class="clip-entry">
-            <div class="clip-thumb">
+        <a class="clip-card" href="${clip.url}" target="_blank">
+            <div class="clip-card-thumb">
                 <img src="${clip.image}" alt="${clip.alt || ''}" loading="lazy">
             </div>
-            <div class="clip-text">
+            <div class="clip-card-body">
                 <div class="clip-meta">${clip.publication} <span class="clip-date">&bull; ${clip.date}</span></div>
-                <h3 class="clip-headline"><a href="${clip.url}" target="_blank">${clip.headline}</a></h3>
+                <h3 class="clip-headline">${clip.headline}</h3>
+                ${clip.deck ? `<p class="clip-deck">${clip.deck}</p>` : ''}
             </div>
-        </article>
+        </a>
     `).join('');
 }
 
