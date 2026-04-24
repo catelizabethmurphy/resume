@@ -580,10 +580,6 @@ a:hover {
         padding: 28px 20px 60px;
     }
 
-    .clip-card {
-        /* inherits from grid, no extra padding needed */
-    }
-
     #clips-container {
         grid-template-columns: 1fr;
         gap: 24px;
