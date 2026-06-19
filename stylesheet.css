@@ -62,7 +62,7 @@ a:hover {
     display: flex;
     flex-direction: column;
     padding: 48px 36px 36px;
-    overflow: hidden;
+    overflow-y: auto;
     z-index: 100;
 }
 
