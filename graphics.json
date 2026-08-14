@@ -1,0 +1,129 @@
+[
+    {
+        "title": "PFAS in U.S. drinking water",
+        "publication": "Personal project",
+        "date": "2026",
+        "type": "embed",
+        "embed": "https://catelizabethmurphy.github.io/epa-app/",
+        "embedHeight": 1000,
+        "tools": [
+            "JavaScript",
+            "Python",
+            "HTML/CSS"
+        ],
+        "url": "https://catelizabethmurphy.github.io/epa-app/",
+        "linkLabel": "Open the full app",
+        "description": "A tracker built on EPA's fifth Unregulated Contaminant Monitoring Rule dataset: 10,166 public water systems, 64,000+ samples, and the 1,716 systems that reported PFAS above a federal limit. Readers can search by ZIP code, city or utility name to find their own system, browse states ranked by share of utilities over the limit, and follow what federal and state regulators are doing about it.",
+        "image": "images/graphics/pfas.jpg",
+        "thumb": "images/graphics/pfas-thumb.jpg",
+        "alt": "State-level view of the PFAS tracker showing 16 of 83 Maryland water systems above EPA limits, with a searchable list of systems"
+    },
+    {
+        "title": "Ten million dollars a day, every day you've been alive",
+        "publication": "Personal project",
+        "date": "2026",
+        "type": "embed",
+        "embed": "https://catelizabethmurphy.github.io/10-million-dollars-a-day/",
+        "embedHeight": 820,
+        "tools": [
+            "JavaScript",
+            "HTML/CSS"
+        ],
+        "url": "https://catelizabethmurphy.github.io/10-million-dollars-a-day/",
+        "linkLabel": "Open the full app",
+        "description": "Enter a date of birth and it works out how close a lifetime of eight-figure days would get you to $1 trillion — then tells you how many more centuries you would need. Built to make an abstract number land.",
+        "image": "images/graphics/trillion.jpg",
+        "thumb": "images/graphics/trillion-thumb.jpg",
+        "alt": "Calculator output reading $216.2 billion earned over 59.2 years, with a progress bar toward $1 trillion"
+    },
+    {
+        "title": "Where on the ideological spectrum do your representatives fall on economic issues?",
+        "publication": "Capital News Service",
+        "date": "2025",
+        "type": "embed",
+        "embed": "https://flo.uri.sh/visualisation/25708032/embed",
+        "embedHeight": 900,
+        "tools": [
+            "Flourish",
+            "R"
+        ],
+        "url": "https://cnsmaryland.org/2025/10/21/congress-disagreeing-on-funding-isnt-new-but-statistically-its-members-disagree-more-than-ever/",
+        "linkLabel": "Read the story",
+        "description": "A searchable table of all 535 members, filterable by name, party, state or rating. Each row carries a plain-language rank — “more conservative than 52 of 52 other current Senate Republicans” — so readers don't have to interpret a DW-NOMINATE score themselves.",
+        "image": "images/graphics/flourish-member-table.jpg",
+        "thumb": "images/graphics/flourish-member-table-thumb.jpg",
+        "alt": "Searchable table of members of Congress with party, state, ideological rating and rank"
+    },
+    {
+        "title": "Who has Trump pardoned?",
+        "publication": "Capital News Service",
+        "date": "2025",
+        "type": "embed",
+        "embed": "https://cnsmaryland.org/interactives/fall2025/pardons/index.html",
+        "embedHeight": 900,
+        "image": "images/graphics/pardons.jpg",
+        "alt": "Dark-themed interactive timeline of clemency grants, with cards branching off a center line",
+        "tools": [
+            "JavaScript",
+            "Python",
+            "HTML/CSS"
+        ],
+        "url": "https://cnsmaryland.org/interactives/fall2025/pardons/index.html",
+        "linkLabel": "Open the full app",
+        "description": "A scrolling timeline of every clemency action of the second Trump administration, assembled from Justice Department records and court filings. Each card carries the charge, the sentence and whether it was a pardon or a commutation.",
+        "thumb": "images/graphics/pardons-thumb.jpg"
+    },
+    {
+        "title": "International oil prices",
+        "publication": "SciLine",
+        "date": "2026",
+        "type": "image",
+        "image": "images/graphics/crude-prices-light-bg.jpg",
+        "thumb": "images/graphics/crude-prices-light-bg-thumb.jpg",
+        "alt": "Line chart of daily Brent crude prices from March to July 2026, annotated with war and diplomacy milestones",
+        "tools": [
+            "Adobe Illustrator"
+        ],
+        "description": "Daily Brent crude prices from March to July 2026, annotated with the start of the Iran war, the interim agreement and the resumption of strikes. Built as a broadcast-ready still for TV newsrooms."
+    },
+    {
+        "title": "Crude oil in the Strategic Petroleum Reserve",
+        "publication": "SciLine",
+        "date": "2026",
+        "type": "image",
+        "image": "images/graphics/spr-levels-02-light-bg.jpg",
+        "thumb": "images/graphics/spr-levels-02-light-bg-thumb.jpg",
+        "alt": "Fuel-gauge illustration showing a 23.1 percent decrease in U.S. strategic crude oil reserves",
+        "tools": [
+            "Adobe Illustrator"
+        ],
+        "description": "A fuel gauge standing in for the U.S. Strategic Petroleum Reserve, showing a 23.1% drawdown between February and July 2026."
+    },
+    {
+        "title": "Connecticut's water systems at risk",
+        "publication": "SciLine",
+        "date": "2026",
+        "type": "image",
+        "image": "images/graphics/risk-map_connecticut.jpg",
+        "thumb": "images/graphics/risk-map_connecticut-thumb.jpg",
+        "alt": "Map of Connecticut with dots marking water systems, red dots showing those at high climate risk",
+        "tools": [
+            "QGIS",
+            "Adobe Illustrator"
+        ],
+        "description": "Every drinking water system in Connecticut mapped against a climate change hazard index, with the 12% projected to face high risk called out in red."
+    },
+    {
+        "title": "Climate change and drinking water",
+        "publication": "SciLine",
+        "date": "2026",
+        "type": "image",
+        "image": "images/graphics/stats_dark-bg.jpg",
+        "thumb": "images/graphics/stats_dark-bg-thumb.jpg",
+        "alt": "Three-panel illustrated graphic on extreme weather, sea level rise and operational costs for water systems",
+        "tools": [
+            "Adobe Illustrator"
+        ],
+        "description": "A three-panel illustrated explainer on how extreme weather, rising seas and energy demand threaten U.S. drinking water infrastructure."
+    }
+]
