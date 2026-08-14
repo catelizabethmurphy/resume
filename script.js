@@ -178,30 +178,17 @@ function loadGraphics() {
 }
 
 // ===================== PHOTOS =====================
-// Two galleries: 'photos' is the photojournalism tab, 'cat' is the strip on
-// the About page. They share one lightbox.
-const galleries = { photos: [], cat: [] };
+const galleries = { photos: [] };
 let lightboxSet = 'photos';
 let lightboxIndex = 0;
 
-function renderGallery(key, containerId, itemClass, opts = {}) {
+function renderGallery(key, containerId, itemClass) {
     const container = document.getElementById(containerId);
     if (!container) return;
     const items = galleries[key];
 
     if (!items.length) {
-        container.innerHTML = opts.plain ? '' : `<p class="gallery-empty">Coming soon.</p>`;
-        return;
-    }
-
-    // Plain galleries reveal their caption on hover — no lightbox
-    if (opts.plain) {
-        container.innerHTML = items.map(p => `
-            <div class="${itemClass}">
-                <img src="${p.thumb || p.image}" alt="${p.alt || ''}" loading="lazy">
-                ${p.caption ? `<span class="photo-caption">${p.caption}</span>` : ''}
-            </div>
-        `).join('');
+        container.innerHTML = `<p class="gallery-empty">Coming soon.</p>`;
         return;
     }
 
@@ -247,14 +234,6 @@ function loadPhotos() {
         .then(res => res.json())
         .then(data => { galleries.photos = data; renderGallery('photos', 'photos-container', 'photo-item'); })
         .catch(err => console.error('Failed to load photos:', err));
-
-    fetch('cat.json')
-        .then(res => res.json())
-        .then(data => {
-            galleries.cat = data;
-            renderGallery('cat', 'cat-container', 'cat-item', { plain: true });
-        })
-        .catch(err => console.error('Failed to load cat photos:', err));
 }
 
 // ===================== WORK NAV GROUP =====================

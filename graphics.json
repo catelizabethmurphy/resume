@@ -19,24 +19,6 @@
         "alt": "State-level view of the PFAS tracker showing 16 of 83 Maryland water systems above EPA limits, with a searchable list of systems"
     },
     {
-        "title": "Ten million dollars a day, every day you've been alive",
-        "publication": "Personal project",
-        "date": "2026",
-        "type": "embed",
-        "embed": "https://catelizabethmurphy.github.io/10-million-dollars-a-day/",
-        "embedHeight": 820,
-        "tools": [
-            "JavaScript",
-            "HTML/CSS"
-        ],
-        "url": "https://catelizabethmurphy.github.io/10-million-dollars-a-day/",
-        "linkLabel": "Open the full app",
-        "description": "Enter a date of birth and it works out how close a lifetime of eight-figure days would get you to $1 trillion — then tells you how many more centuries you would need. Built to make an abstract number land.",
-        "image": "images/graphics/trillion.jpg",
-        "thumb": "images/graphics/trillion-thumb.jpg",
-        "alt": "Calculator output reading $216.2 billion earned over 59.2 years, with a progress bar toward $1 trillion"
-    },
-    {
         "title": "Where on the ideological spectrum do your representatives fall on economic issues?",
         "publication": "Capital News Service",
         "date": "2025",
@@ -125,5 +107,23 @@
             "Adobe Illustrator"
         ],
         "description": "A three-panel illustrated explainer on how extreme weather, rising seas and energy demand threaten U.S. drinking water infrastructure."
+    },
+    {
+        "title": "Ten million dollars a day, every day you've been alive",
+        "publication": "Personal project",
+        "date": "2026",
+        "type": "embed",
+        "embed": "https://catelizabethmurphy.github.io/10-million-dollars-a-day/",
+        "embedHeight": 820,
+        "tools": [
+            "JavaScript",
+            "HTML/CSS"
+        ],
+        "url": "https://catelizabethmurphy.github.io/10-million-dollars-a-day/",
+        "linkLabel": "Open the full app",
+        "description": "Enter a date of birth and it works out how close a lifetime of eight-figure days would get you to $1 trillion — then tells you how many more centuries you would need. Built to make an abstract number land.",
+        "image": "images/graphics/trillion.jpg",
+        "thumb": "images/graphics/trillion-thumb.jpg",
+        "alt": "Calculator output reading $216.2 billion earned over 59.2 years, with a progress bar toward $1 trillion"
     }
 ]
