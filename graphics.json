@@ -1,5 +1,24 @@
 [
     {
+        "title": "How daily fantasy sports apps expand access to wagers on college athletes",
+        "publication": "Capital News Service",
+        "date": "2026",
+        "type": "embed",
+        "embed": "https://cnsmaryland.org/interactives/spring2026/prop-bets/index.html",
+        "embedHeight": 900,
+        "tools": [
+            "JavaScript",
+            "MapLibre",
+            "HTML/CSS"
+        ],
+        "url": "https://cnsmaryland.org/interactives/spring2026/prop-bets/index.html",
+        "linkLabel": "Open the full app",
+        "description": "A scrolling explainer built on nearly 21,000 opportunities to wager on 385 individual men's basketball players during the 2026 NCAA tournament, tracked across more than a dozen betting and fantasy sports platforms. It charts how the offerings grew round by round, puts a sportsbook prop next to its near-identical fantasy pick 'em, and maps which states restrict each.",
+        "image": "images/graphics/prop-bets.jpg",
+        "thumb": "images/graphics/prop-bets-thumb.jpg",
+        "alt": "Stacked chart of wagers offered on March Madness players per game by round, growing from 225 in the First Four to 491 in the Final Four"
+    },
+    {
         "title": "PFAS in U.S. drinking water",
         "publication": "Personal project",
         "date": "2026",

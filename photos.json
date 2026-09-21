@@ -1,21 +1,39 @@
 [
     {
+        "image": "images/photos/alsobrooks-cbcf-4.jpg",
+        "thumb": "images/photos/alsobrooks-cbcf-4-thumb.jpg",
+        "caption": "",
+        "alt": "Sen. Angela Alsobrooks gesturing mid-answer during an interview at the Congressional Black Caucus Foundation conference, a video camera blurred in the foreground"
+    },
+    {
+        "image": "images/photos/moore-cbcf-1.jpg",
+        "thumb": "images/photos/moore-cbcf-1-thumb.jpg",
+        "caption": "",
+        "alt": "Gov. Wes Moore seated and listening in front of a Congressional Black Caucus Foundation backdrop, framed past a blurred figure in the foreground"
+    },
+    {
+        "image": "images/photos/ivey-cbcf-1.jpg",
+        "thumb": "images/photos/ivey-cbcf-1-thumb.jpg",
+        "caption": "",
+        "alt": "Rep. Glenn Ivey speaking at a clear podium, finger raised, seen from below past the microphone"
+    },
+    {
+        "image": "images/photos/ivey-cbcf-2.jpg",
+        "thumb": "images/photos/ivey-cbcf-2-thumb.jpg",
+        "caption": "",
+        "alt": "Close portrait of Rep. Glenn Ivey looking off to the side against a dark background, stage light reflecting in his glasses"
+    },
+    {
+        "image": "images/photos/van-hollen-education-rif-2.jpg",
+        "thumb": "images/photos/van-hollen-education-rif-2-thumb.jpg",
+        "caption": "",
+        "alt": "Sen. Chris Van Hollen smiling with his hand at his chin at an outdoor union rally, a sign reading “A Year of Egos and Inefficiency” in the foreground"
+    },
+    {
         "image": "images/photos/cem-0001.jpg",
         "thumb": "images/photos/cem-0001-thumb.jpg",
         "caption": "",
         "alt": "Quinnipiac goaltender in mask and pads looking down the ice, teammates lined up behind"
-    },
-    {
-        "image": "images/photos/cem-1077.jpg",
-        "thumb": "images/photos/cem-1077-thumb.jpg",
-        "caption": "",
-        "alt": "Quinnipiac skater in white carrying the puck against a defender in green"
-    },
-    {
-        "image": "images/photos/cem-1109.jpg",
-        "thumb": "images/photos/cem-1109-thumb.jpg",
-        "caption": "",
-        "alt": "Quinnipiac skater winding up for a shot with the puck ahead of her stick"
     },
     {
         "image": "images/photos/cem-2004.jpg",
@@ -60,34 +78,16 @@
         "alt": "Totality — the sun's corona as a thin white ring against a black sky"
     },
     {
-        "image": "images/photos/cem-5595.jpg",
-        "thumb": "images/photos/cem-5595-thumb.jpg",
-        "caption": "",
-        "alt": "A freight train blurred with motion as it passes a railroad crossing signal"
-    },
-    {
         "image": "images/photos/cem-9097.jpg",
         "thumb": "images/photos/cem-9097-thumb.jpg",
         "caption": "",
         "alt": "Quinnipiac player number 16 on the bench, helmet on, looking out at the ice"
     },
     {
-        "image": "images/photos/cem-9223.jpg",
-        "thumb": "images/photos/cem-9223-thumb.jpg",
-        "caption": "",
-        "alt": "Quinnipiac player number 12 in a defensive crouch, stick down on the ice"
-    },
-    {
         "image": "images/photos/cem-9496.jpg",
         "thumb": "images/photos/cem-9496-thumb.jpg",
         "caption": "",
         "alt": "Quinnipiac players celebrating on the ice in front of empty stands"
-    },
-    {
-        "image": "images/photos/cem-9503.jpg",
-        "thumb": "images/photos/cem-9503-thumb.jpg",
-        "caption": "",
-        "alt": "Quinnipiac team lifting a trophy together, sticks and gloves raised"
     },
     {
         "image": "images/photos/cem-9588.jpg",
